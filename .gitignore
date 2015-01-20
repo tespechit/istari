@@ -52,3 +52,15 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# Others
+*.db
+*.sqlite3
+.DS_Store
+bin
+man
+share
+lib
+include
+distribute-0.6.34.tar.gz
+pip-selfcheck.json
